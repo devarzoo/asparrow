@@ -1,0 +1,48 @@
+[
+
+    {
+        "id": 1,
+        "thumb": "/images/project/about-4.png",
+        "subtitle": "Step One",
+        "title": "Analyse",
+        "paragraph": "We believe in investing time in sharpening the blade first so that the rest of the job is easy. We conduct an in-depth requirement analysis to understand the requirement of the client clearly."
+    },
+    {
+        "id": 2,
+        "thumb": "/images/project/about-5.png",
+        "subtitle": "Step Two",
+        "title": "Design",
+        "paragraph": "Based on psychographics traced after understanding the users completely, we map a user-centric design in collaboration with the client."
+    },
+    {
+        "id": 3,
+        "thumb": "/images/project/about-6.png",
+        "subtitle": "Step Three",
+        "title": "Build",
+        "paragraph": "We break down the whole project into achievable milestones and distinct deadlines and get it approved from the client. Once done, we proceed with building the product."
+    },
+    {
+        "id": 4,
+        "thumb": "/images/project/about-7.png",
+        "subtitle": "Step four",
+        "title": "Deploy",
+        "paragraph": "We offer custom integration services that ensure smooth integration of the product with your existing IT infrastructure. We adhere to the industry laid standards for quality control, testing, reportage, and security."
+    },
+    {
+        "id": 5,
+        "thumb": "/images/project/about-7.png",
+        "subtitle": "Step five",
+        "title": "Market",
+        "paragraph": "We offer the most fitting marketing strategy based on your product intended market. Our team ensures that our marketing solutions are optimized for market visibility and relevant for all the search engines."
+    },
+    {
+        "id": 6,
+        "thumb": "/images/project/about-7.png",
+        "subtitle": "Step six",
+        "title": "Support",
+        "paragraph": "We provide IT support services that assist you in continually review and refine your product to match the new opportunities."
+    }
+
+
+
+]

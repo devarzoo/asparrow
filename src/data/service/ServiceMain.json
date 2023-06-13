@@ -1,0 +1,167 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Design",
+        "description": "It involves creating visual designs such as logos, brochures, flyers, business cards, posters, and other marketing materials."
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Development",
+        "description": "This involves developing websites and web applications using programming languages such as HTML, CSS, JavaScript, and MongoDb ,React , React-native "
+    },
+    {
+        "image": "/images/icon/icon-3.png",
+        "title": "Online marketing",
+        "description": "Search engine optimization (SEO): This involves optimizing a website or online content to rank higher in search engine results pages (SERPs) and increase organic traffic to the website."
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Business",
+        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+    },
+    {
+        "image": "/images/icon/icon-5.png",
+        "title": "Technology",
+        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+    },
+    {
+        "image": "/images/icon/icon-6.png",
+        "title": "Content strategy",
+        "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library."
+    },
+
+    {
+        "image": "/images/icon/icon-29.png",
+        "title": "Logo & Branding",
+        "description": "Create a lasting impression with our expert logo and branding services. Stand out from the crowd."        ,
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-27.png",
+        "title": "Website Design",
+        "description": "Elevate your online presence with our innovative website design services. Make a lasting impact.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-28.png",
+        "title": "Mobile app design",
+        "description": "Revolutionize your business with our cutting-edge mobile app design services. Reach your customers on-the-go.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-4.png",
+        "title": "Graphic/print design",
+        "description": "Make a statement with our creative graphic and print design services. Stand out from the competition.",
+        "cate": "Design"
+    },
+    {
+        "image": "/images/icon/icon-30.png",
+        "title": "Video production",
+        "description": "Elevate your brand with our high-quality video production services. Engage your audience like never before.",
+        "cate": "Design"
+    },
+
+    {
+        "image": "/images/icon/icon-31.png",
+        "title": "Content Managment",
+        "description": "Streamline your content strategy with our expert content management services. Drive engagement and growth.",
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-32.png",
+        "title": "Mobile app development",
+        "description": "Transform your vision into reality with our innovative mobile app development services. Empower your customers."        ,
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-33.png",
+        "title": "eCommerce",
+        "description": "Take your business online with our comprehensive e-commerce solutions. Drive sales and growth."        ,
+        "cate": "Development"
+    },
+    {
+        "image": "/images/icon/icon-34.png",
+        "title": "SEO",
+        "description": "Boost your online visibility with our expert SEO services. Drive organic traffic and leads."        ,
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-35.png",
+        "title": "Pay-per click",
+        "description": "Maximize your ROI with our targeted pay-per-click advertising services. Drive qualified traffic and conversions."        ,
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-36.png",
+        "title": "Email marketing",
+        "description": "Connect with your audience and drive engagement with our strategic email marketing services. Nurture leads and grow."        ,
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-37.png",
+        "title": "Display marketing",
+        "description": "Elevate your digital presence with our comprehensive and innovative digital marketing services. Drive growth and success."        ,
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-38.png",
+        "title": "Social Media marketing",
+        "description": "Maximize your social media presence and engagement with our expert social media marketing services. Reach your audience."        ,
+        "cate": "Online Marketing"
+    },
+    {
+        "image": "/images/icon/icon-39.png",
+        "title": "Digital strategy",
+        "description": "Drive growth and success with our strategic and innovative digital strategy services. Transform your business."        ,
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-40.png",
+        "title": "Business consulting",
+        "description": "Unlock your full potential with our expert business consulting services. Drive innovation and growth."        ,
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-41.png",
+        "title": "Content writing",
+        "description": "Engage and inspire your audience with our compelling and impactful content writing services. Drive results."        ,
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-42.png",
+        "title": "Reporting",
+        "description": "Make informed decisions with our comprehensive and insightful reporting services. Drive success and growth."        ,
+        "cate": "Business"
+    },
+    {
+        "image": "/images/icon/icon-43.png",
+        "title": "Hosting",
+        "description": "Reliable and secure hosting solutions for your website or application. Keep your business running smoothly."        ,
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-44.png",
+        "title": "Big data analysis",
+        "description": "Unlock the power of data with our expert big data analysis services. Make informed decisions."        ,
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-45.png",
+        "title": "Web Audit Practices",
+        "description": "Optimize your online presence with our comprehensive web audit practice. Improve performance and drive growth."        ,
+        "cate": "Content strategy"
+    },
+    {
+        "image": "/images/icon/icon-46.png",
+        "title": "Marketing Flexibility",
+        "description": "Adapt to change and stay ahead of the curve with our flexible and innovative marketing solutions."        ,
+        "cate": "Content strategy"
+    },
+    {
+        "image": "/images/icon/icon-47.png",
+        "title": "Advertising Strategy",
+        "description": "Maximize your advertising impact with our strategic and data-driven advertising strategy services. Drive results."        ,
+        "cate": "Content strategy"
+    }
+    
+]

@@ -1,0 +1,31 @@
+.career-section{
+	background-color: #f5f5f5;
+	padding: 20px;
+	margin: 40px;
+}
+
+.career-section p{
+	margin: 0px;
+}
+
+.career-section h5{
+	margin: 0px;
+}
+
+.career-section span{
+	font-style: bold						;
+}
+
+.career-section h6{
+	margin: 0px;
+	display: inline-block;
+}
+
+.job-title{
+	color: darkblue;
+margin: 0px 0px -25px 40px;
+}
+
+.career-outer-div{
+	margin: 100px;
+}
